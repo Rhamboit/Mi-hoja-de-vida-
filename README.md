@@ -1,6 +1,6 @@
 # Mi hoja de vida
-**Nombre completo:** Sergio David Peralta Mendez
-**Correo electrónico:** Sergio320preakta@gmail.com
+Nombre completo:** Sergio David Peralta Mendez
+Correo electrónico:** Sergio320prealta@gmail.com
 ## Formación académica
 - Bachiller Técnico en Informática
 - Estudiante de Ingeniería de Sistemas en UNIMINUTO
